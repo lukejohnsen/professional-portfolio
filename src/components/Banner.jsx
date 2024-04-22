@@ -13,17 +13,18 @@ export default function Banner() {
             </h2>
           </div>
           <div>
-            <p className="mt-4 mb-8 text-gray-400">
+            <p className="mt-4 text-gray-400">
               Greetings! My name is Luke. I am a web developer seeking out my
               next opportunity to learn, grow and build. When I'm not coding,
               you can find my in the gym, enjoying a Jackie Chan flick, or
               playing with my beloved dog, Peach.
             </p>
+
             <a
-              className="px-8 shadow-gray-500 shadow-md py-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700"
-              href="src/assets/Luke_Johnsen_CV_.pdf"
+              href="/professional-portfolio/src/assets/Luke_Johnsen_CV_.pdf"
               target="_blank"
               rel="noopener noreferrer"
+              className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700"
             >
               Download resume
             </a>
@@ -33,7 +34,7 @@ export default function Banner() {
           <div>
             <img
               src={profilePhoto}
-              className="relative z-10 mt-8 w-[280px] m-auto sm:w-[600px] rounded-full border border-blue-500"
+              className="relative z-10 w-[280px] m-auto sm:w-[600px] rounded-full border border-blue-500"
             />
           </div>
         </div>
