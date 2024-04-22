@@ -22,7 +22,7 @@ export default function Projects() {
                 PHP server. HTML5, CSS3, JavaScript (jQuery), PHP and MySQL.
               </p>
             </div>
-            <div className="mt-3">
+            <div className="mt-12">
               <a
                 className="flex justify-center text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700"
                 href="https://www.tucsonmariachi.org/register-group/"
