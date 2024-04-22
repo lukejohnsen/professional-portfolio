@@ -22,7 +22,7 @@ export default function Projects() {
                 PHP server. HTML5, CSS3, JavaScript (jQuery), PHP and MySQL.
               </p>
             </div>
-            <div className="mt-auto">
+            <div className="mt-3">
               <a
                 className="flex justify-center text-sm py-3 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700"
                 href="https://www.tucsonmariachi.org/register-group/"
@@ -67,15 +67,15 @@ export default function Projects() {
                 HTML, CSS and JavaScript.
               </p>
             </div>
-            <div className="mt-auto">
-              <button
-                className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500 w-full"
-                href="https://tucsonterrorinthecorn.com/"
+            <div className="flex gap-2 mt-12">
+              <a
+                className="flex-1 text-sm text-center py-3 border rounded-full hover:border-blue-500 hover:text-blue-500"
+                href="https://github.com/lukejohnsen/professional-portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Checkout github
-              </button>
+              </a>
             </div>
           </div>
           <div className="border border-gray-500 rounded-md p-5 flex-1">
@@ -89,14 +89,14 @@ export default function Projects() {
               and MongoDB. (Note: application is currently not live.)
             </p>
             <div className="flex gap-2 mt-12">
-              <button
-                className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500"
+              <a
+                className="flex-1 text-sm text-center py-3 border rounded-full hover:border-blue-500 hover:text-blue-500"
                 href="https://github.com/Blitman12/ren-date-vous"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Checkout github
-              </button>
+              </a>
             </div>
           </div>
         </div>
