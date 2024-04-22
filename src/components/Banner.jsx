@@ -21,7 +21,7 @@ export default function Banner() {
             </p>
 
             <a
-              href="/professional-portfolio/src/assets/Luke_Johnsen_CV_.pdf"
+              href="https://github.com/lukejohnsen/professional-portfolio/blob/main/src/assets/Luke_Johnsen_CV_.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700"
