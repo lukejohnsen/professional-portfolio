@@ -1,5 +1,6 @@
 // Banner.jsx
 import profilePhoto from "../assets/Headshot.jpg";
+import Resume from "../assets/Luke_Johnsen_CV_.pdf";
 
 export default function Banner() {
   return (
@@ -21,7 +22,7 @@ export default function Banner() {
             </p>
 
             <a
-              href="./src/assets/Luke_Johnsen_CV_.pdf"
+              href={Resume}
               target="_blank"
               rel="noopener noreferrer"
               type="application/pdf"

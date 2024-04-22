@@ -3,6 +3,7 @@ import Project2 from "../assets/project2.png";
 import Project3 from "../assets/project3.png";
 import Project4 from "../assets/project4.png";
 
+
 export default function Projects() {
   return (
     <section id="projects">
