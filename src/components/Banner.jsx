@@ -17,7 +17,7 @@ export default function Banner() {
             <p className="mt-6 mb-8 text-gray-400">
               Greetings! My name is Luke. I am a web developer seeking out my
               next opportunity to learn, grow and build. When I'm not coding,
-              you can find my in the gym, enjoying a Jackie Chan flick, or
+              you can find me in the gym, enjoying a Jackie Chan flick, or
               playing with my beloved dog, Peach.
             </p>
 

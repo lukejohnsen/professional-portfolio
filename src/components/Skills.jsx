@@ -79,7 +79,7 @@ export default function Skills() {
       <div className="mt-8 px-4">
         <h2 className="font-semibold text-xl">Additional Skills</h2>
         <ul className="list-none list-inside mt-2">
-          <li>Model View Controller (MVC) principals</li>
+          <li>Model View Controller (MVC) principles</li>
           <li>REST API architecture</li>
           <li>GraphQL</li>
           <li>MongoDB</li>

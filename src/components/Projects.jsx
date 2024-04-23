@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="container m-auto px-4 sm:py-12">
         <h2 className="text-2xl font-semibold">Projects</h2>
         <div className="flex flex-col sm:flex-row gap-10 mt-11">
-          <div className="border border-gray-500 rounded-md p-5 flex-1 flex flex-col">
+          <div className="border border-gray-500 rounded-md p-5 flex-1 flex flex-col justify-between">
             <div className="flex-grow">
               <img src={Project1} className="w-full h-auto" />
               <h3 className="text-2xl font-semibold mt-8">
@@ -34,7 +34,7 @@ export default function Projects() {
               </a>
             </div>
           </div>
-          <div className="border border-gray-500 rounded-md p-5 flex-1 flex flex-col">
+          <div className="border border-gray-500 rounded-md p-5 flex-1 flex flex-col justify-between">
             <img src={Project2} className="w-full h-auto" />
             <h3 className="text-2xl font-semibold mt-8">
               Tucson Terror in the Corn WordPress Theme

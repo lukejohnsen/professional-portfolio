@@ -13,7 +13,7 @@ export default function Resume() {
             <div className="pl-24 mt-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
               <h3 className="left-0 text-lg font-semibold">2022 - 2023</h3>
               <p>
-                Worked as a freelance Web Developer working on various independent projects as well the Tucson Terror in the Corn website build.
+                Freelance Web Developer: worked on various independant projects, including the Tucson Terror in the Corn website build.
               </p>
             </div>
             <div className="pl-24 mt-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
