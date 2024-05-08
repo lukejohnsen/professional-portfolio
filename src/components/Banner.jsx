@@ -7,7 +7,7 @@ export default function Banner() {
     <section>
       <div className="container m-auto px-4 pt-12 pb-12 sm:pt-20 flex flex-col sm:flex-row gap-6 text-center sm:text-left">
         <div>
-          <h2 className="font-bold text-4xl">Hello, I'm Luke,</h2>
+          <h2 className="font-bold text-4xl">Hello, I'm Luke.</h2>
           <div>
             <h2 className="font-bold text-4xl mt-1 gradiant-text">
               Web Developer
@@ -16,7 +16,7 @@ export default function Banner() {
           <div>
             <p className="mt-6 mb-8 text-gray-400">
               Greetings! My name is Luke. I am a web developer seeking out my
-              next opportunity to learn, grow and build. When I'm not coding,
+              next opportunity to learn, grow, and build. When I'm not coding,
               you can find me in the gym, enjoying a Jackie Chan flick, or
               playing with my beloved dog, Peach.
             </p>

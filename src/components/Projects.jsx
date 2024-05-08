@@ -20,7 +20,7 @@ export default function Projects() {
               <p className="text-gray-400 text-sm mt-2">
                 Responsive HTML/CSS layout for online registration for TIMC 2024
                 with Stripe API integration for payments. MySQL database with a
-                PHP server. HTML5, CSS3, JavaScript (jQuery), PHP and MySQL.
+                PHP server. HTML5, CSS3, JavaScript (jQuery), PHP, and MySQL.
               </p>
             </div>
             <div className="mt-12">
@@ -65,7 +65,7 @@ export default function Projects() {
               </h3>
               <p className="text-gray-400 text-sm mt-2">
                 Responsive single page application with built in ReactJS with
-                HTML, CSS and JavaScript.
+                HTML, CSS, and JavaScript.
               </p>
             </div>
             <div className="flex gap-2 mt-12">
