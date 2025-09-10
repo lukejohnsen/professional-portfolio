@@ -1,6 +1,6 @@
 // Banner.jsx
 import profilePhoto from "../assets/Headshot.jpg";
-import Resume from "../assets/Luke_Johnsen_CV_.pdf";
+import Resume from "../assets/Luke_Johnsen_Resume2025.pdf";
 
 export default function Banner() {
   return (
