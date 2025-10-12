@@ -17,7 +17,7 @@ Below you will find a code snippet showcasing the dynamic participant collection
 
 As of right now, the live form is not currently accessible.`,
 
-  whatToWatch: `WhatToWatch is a modern web application that gamifies movie discovery through a swipe-based interface. Built with Next.js App Router, the app integrates with The Movie Database (TMDB) API to deliver real-time popular movie data in an engaging, mobile-first experience.
+  whatToWatch: `WhatToWatch is a modern web application that gamifies movie discovery through a swipe-based interface. Built with Next.js, the app integrates with The Movie Database (TMDB) API to deliver real-time popular movie data in an engaging user-friendly experience.
 
 Current Features:
 
