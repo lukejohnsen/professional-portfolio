@@ -32,13 +32,12 @@ export default function Banner() {
             </a>
           </div>
         </div>
-        <div className="relative">
-          <div>
-            <img
-              src={profilePhoto}
-              className="relative mt-10 z-10 w-[280px] m-auto sm:w-[600px] rounded-full border border-blue-500"
-            />
-          </div>
+        <div className="relative flex justify-center items-center">
+          <img
+            src={profilePhoto}
+            className="w-[800px] sm:w-[1200px] rounded-xl border-4 border-gray-900 shadow-2xl"
+            alt="Luke Johnsen"
+          />
         </div>
       </div>
     </section>

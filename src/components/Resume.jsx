@@ -5,6 +5,12 @@ export default function Resume() {
           <h2 className="text-2xl font-semibold">About me</h2>
           <div className="mt-12 relative before:absolute before:top-0 before:left-16 before:rounded-full before:bottom-10 sm:before:bottom-2 before:w-1 before:bg-white">
             <div className="pl-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
+              <h3 className="left-0 text-lg font-semibold">October 2024</h3>
+              <p className="mb-10">
+                Began working as a freelance Web Developer for TagLine Media, building custom WordPress themes and sites for small business clients throughout Arizona.
+              </p>
+            </div>
+            <div className="pl-24 relative before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:absolute before:rounded-full before:left-[58px]">
               <h3 className="left-0 text-lg font-semibold">May 2023</h3>
               <p className="mb-10">
                 Hired as La Frontera Inc.'s full-time Web Developer while
